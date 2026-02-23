@@ -1,0 +1,2 @@
+Github Copilot autofill used from within VS Code. On several occasions, I began typing and was able to press Tab to complete the rest of the line I was going to type
+rather than typing it out manually.
